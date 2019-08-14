@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React Counter](https://github.com/facebook/create-react-app).
+
+## 说明
+
+使用react简单的实现了增加和删除功能,<br>
+状态保存在了父组件中没有使用redux来对状态进行集中管理<br>
+后续项目中会陆续加入redux,react-router等
 
 ## Available Scripts
 
@@ -39,7 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React Counter documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -51,7 +57,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+### Making a Progressive Web Counter
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
